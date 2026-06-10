@@ -1,0 +1,15 @@
+[
+  "tests/integration/test_auth.py::test_health_check",
+  "tests/integration/test_auth.py::test_login_success",
+  "tests/integration/test_auth.py::test_login_wrong_password",
+  "tests/integration/test_auth.py::test_me_requires_auth",
+  "tests/integration/test_auth.py::test_me_with_token",
+  "tests/integration/test_auth.py::test_register_creates_account",
+  "tests/integration/test_auth.py::test_register_duplicate_email_rejected",
+  "tests/unit/test_scorer.py::test_ineligible_company_capped",
+  "tests/unit/test_scorer.py::test_large_tender_high_competition",
+  "tests/unit/test_scorer.py::test_reasoning_is_populated",
+  "tests/unit/test_scorer.py::test_severe_penalties_flagged",
+  "tests/unit/test_scorer.py::test_strong_match_high_win_probability",
+  "tests/unit/test_scorer.py::test_tight_deadline_increases_risk"
+]
